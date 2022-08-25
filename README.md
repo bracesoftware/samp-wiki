@@ -37,9 +37,9 @@
 </li><li> <a href="getting_started.md#Install" title="Getting Started">Install</a>
 </li><li> <a href="getting_started.md#Find_a_Server" title="Getting Started">Find a Server</a>
 </li></ul>
-</li><li> <a href="https://team.sa-mp.com/wiki/Common_Problems.html" title="Common Problems">Common Problems</a>
-<ul><li> <a href="https://team.sa-mp.com/wiki/Common_Problems.html#Client" title="Common Problems">Client</a>
-</li><li> <a href="https://team.sa-mp.com/wiki/Common_Problems.html#Server" title="Common Problems">Server</a>
+</li><li> <a href="common_problems.md" title="Common Problems">Common Problems</a>
+<ul><li> <a href="common_problems.md#Client" title="Common Problems">Client</a>
+</li><li> <a href="common_problems.md#Server" title="Common Problems">Server</a>
 </li><li> <a href="https://team.sa-mp.com/wiki/Sa-mp.cfg.html" title="Sa-mp.cfg">sa-mp.cfg</a>
 </li></ul>
 </li><li> <a href="https://team.sa-mp.com/wiki/Changelog.html" title="Changelog">Changelog</a>
