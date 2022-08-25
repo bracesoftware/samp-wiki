@@ -40,7 +40,7 @@
 </li><li> <a href="common_problems.md" title="Common Problems">Common Problems</a>
 <ul><li> <a href="common_problems.md#Client" title="Common Problems">Client</a>
 </li><li> <a href="common_problems.md#Server" title="Common Problems">Server</a>
-</li><li> <a href="sampsvr_config.md" title="Sa-mp.cfg">sa-mp.cfg</a>
+</li><li> <a href="samp_config.md" title="Sa-mp.cfg">sa-mp.cfg</a>
 </li></ul>
 </li><li> <a href="https://team.sa-mp.com/wiki/Changelog.html" title="Changelog">Changelog</a>
 </li></ul>
