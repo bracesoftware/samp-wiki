@@ -50,7 +50,7 @@
 </li><li> <a href="https://team.sa-mp.com/wiki/Linux_Server.html" title="Linux Server">Linux</a>
 </li><li> <a href="https://team.sa-mp.com/wiki/Controlling_Your_Server.html" title="Controlling Your Server">Controlling Your Server</a>
 </li></ul>
-</li><li>  <a href="https://team.sa-mp.com/wiki/Limits.html" title="Limits">Limits</a>
+</li><li>  <a href="limits.md" title="Limits">Limits</a>
 </li><li> <a href="https://team.sa-mp.com/wiki/Category_Scripting_Documentation.html" title="Category:Scripting Documentation">Scripting</a>
 <ul><li> <a href="https://team.sa-mp.com/wiki/Scripting_Basics.html" title="Scripting Basics">Scripting Basics</a>
 </li><li> <a href="https://team.sa-mp.com/wiki/Category_Scripting_Functions.html" title="Category:Scripting Functions">Scripting Functions</a>
