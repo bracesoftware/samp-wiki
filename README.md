@@ -28,9 +28,9 @@
 
 <tr valign="top" align="left" style="background: #f5faff; font-size: 100%;">
 <td> <div style="float: right"> </div>
-<ul><li> <a href="https://team.sa-mp.com/wiki/Introduction.html" title="Introduction">Introduction</a>
-<ul><li> <a href="https://team.sa-mp.com/wiki/Introduction.html#What_is_SA:MP.3F" title="Introduction">What is SA:MP?</a>
-</li><li> <a href="https://team.sa-mp.com/wiki/Introduction.html#System_Requirements" title="Introduction">System Requirements</a>
+<ul><li> <a href="introduction.md" title="Introduction">Introduction</a>
+<ul><li> <a href="introduction.md#What_is_SA:MP.3F" title="Introduction">What is SA:MP?</a>
+</li><li> <a href="introduction.md#System_Requirements" title="Introduction">System Requirements</a>
 </li></ul>
 </li><li> <a href="https://team.sa-mp.com/wiki/Getting_Started.html" title="Getting Started">Getting Started</a>
 <ul><li> <a href="https://team.sa-mp.com/wiki/Getting_Started.html#Download" title="Getting Started">Download</a>
