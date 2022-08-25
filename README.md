@@ -32,10 +32,10 @@
 <ul><li> <a href="introduction.md#What_is_SA:MP.3F" title="Introduction">What is SA:MP?</a>
 </li><li> <a href="introduction.md#System_Requirements" title="Introduction">System Requirements</a>
 </li></ul>
-</li><li> <a href="https://team.sa-mp.com/wiki/Getting_Started.html" title="Getting Started">Getting Started</a>
-<ul><li> <a href="https://team.sa-mp.com/wiki/Getting_Started.html#Download" title="Getting Started">Download</a>
-</li><li> <a href="https://team.sa-mp.com/wiki/Getting_Started.html#Install" title="Getting Started">Install</a>
-</li><li> <a href="https://team.sa-mp.com/wiki/Getting_Started.html#Find_a_Server" title="Getting Started">Find a Server</a>
+</li><li> <a href="getting_started.md" title="Getting Started">Getting Started</a>
+<ul><li> <a href="getting_started.md#Download" title="Getting Started">Download</a>
+</li><li> <a href="getting_started.md#Install" title="Getting Started">Install</a>
+</li><li> <a href="getting_started.md#Find_a_Server" title="Getting Started">Find a Server</a>
 </li></ul>
 </li><li> <a href="https://team.sa-mp.com/wiki/Common_Problems.html" title="Common Problems">Common Problems</a>
 <ul><li> <a href="https://team.sa-mp.com/wiki/Common_Problems.html#Client" title="Common Problems">Client</a>
