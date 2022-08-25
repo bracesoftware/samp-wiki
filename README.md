@@ -1,28 +1,4 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<!-- saved from url=(0040)https://team.sa-mp.com/wiki-archive.html -->
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" dir="ltr"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-		
-		<meta name="keywords" content="Main Page,Changelog,Common Problems,Controlling Your Server,Getting Started,Introduction,Limits,Linux Server,Sa-mp.cfg,Script Examples,Scripting Basics">
-<link rel="shortcut icon" href="https://team.sa-mp.com/favicon.ico">
-		<title>Main Page - SA-MP Wiki</title>
-		<style type="text/css" media="screen,projection">/*<![CDATA[*/ @import "./skins/monobook/main.css?7"; /*]]>*/</style>
-		<link rel="stylesheet" type="text/css" media="print" href="https://team.sa-mp.com/skins/common/commonPrint.css">
-		<!--[if lt IE 5.5000]><style type="text/css">@import "./skins/monobook/IE50Fixes.css";</style><![endif]-->
-		<!--[if IE 5.5000]><style type="text/css">@import "./skins/monobook/IE55Fixes.css";</style><![endif]-->
-		<!--[if IE 6]><style type="text/css">@import "./skins/monobook/IE60Fixes.css";</style><![endif]-->
-		<!--[if IE 7]><style type="text/css">@import "./skins/monobook/IE70Fixes.css?1";</style><![endif]-->
-		<!--[if lt IE 7]><script type="text/javascript" src="./skins/common/IEFixes.js"></script>
-		<meta http-equiv="imagetoolbar" content="no" /><![endif]-->
-		<script type="text/javascript">var skin = 'monobook';var stylepath = './skins';</script>
-		<script type="text/javascript" src="https://team.sa-mp.com/skins/common/wikibits.js"><!-- wikibits js --></script>
-		<script type="text/javascript" src="https://team.sa-mp.com/raw/gen.js"><!-- site js --></script>
-		<style type="text/css">/*<![CDATA[*/
-@import "raw/MediaWiki_Common.css";
-@import "raw/MediaWiki_Monobook.css";
-@import "raw/gen.css";
-/*]]>*/</style>
-		<!-- Head Scripts -->
-			</head>
+</head>
 <body class="ns-0 ltr">
 	<div id="globalWrapper">
 		<div id="column-content">
